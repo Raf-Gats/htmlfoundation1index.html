@@ -1,1 +1,1 @@
-https://github.com/Raf-Gats/htmlfoundation/main.html
+https://github.com/Raf-Gats/htmlfoundation/index.html
